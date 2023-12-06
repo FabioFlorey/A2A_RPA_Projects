@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultricies, metus se
   <a name="mappatura_prototype_implementation"></a>
   #### **Mappatura Service Now &rarr; PowerPoint (Prototype, Implementation)**
 
-    Un subset delle colonne in Service Now viene estratto a colonne nella diaposita PowerPoint con un rapporto 1:1  `Stato iniziative in Prototype / Implementation`, ad eccezione dei campi `Milestone`,  `% completamento effettiva` e `% completamento proposta`.
+    Un subset delle colonne in Service Now viene estratto a colonne in una diapositiva PowerPoint intitolata `Stato iniziative in Prototype / Implementation` con un rapporto 1:1 , ad eccezione dei campi `Milestone`,  `% completamento effettiva` e `% completamento proposta`. 
 
     | Service Now               | PowerPoint                        |
     | :------------------------ | :-------------------------------- |
