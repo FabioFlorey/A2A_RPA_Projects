@@ -85,11 +85,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultricies, metus se
     4. Aprire il sotto-task
     5. Visitare la sezione `Dettagli`
     
-    Nella sezione dettagli sarà presente un campo `Milestone` con una checkbox. Se il campo non flaggato, si può passare al prossimo sotto-task. Se il campo è flaggato.
+    Nella sezione dettagli sarà presente un campo `Milestone` con una checkbox. <br> Se il campo non è flaggato:
+
+    6. Prossimo sotto-task.
+      
+    Se il campo è flaggato:
 
     6. Estarre l'informazione da `Breve descrizione`
     
-    Da qui sarà necessario tornare indietro alla lista dei sottotask e passare al prossimo.
+    Da qui sarà necessario tornare indietro alla lista dei sotto-task e passare al prossimo, fino all'esaurimento dei sotto-task.
 
     Il campo `Milestone` sarà la join del campo `Breve descrizione` per ciascun task.
 
