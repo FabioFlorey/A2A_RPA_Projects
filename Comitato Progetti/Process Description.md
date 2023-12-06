@@ -118,7 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultricies, metus se
 
 - **Inserimento dei dati nella diapositiva PowerPoint**
  
-  Seguendo la <a href="  <a href="#mappatura_prototype_implementation">mappatura lativa alla fase di Prototype e Implementation</a>, per ogni Funzione owner, per ciascun progetto listato, inserire una tabella di massimo 2 righe con in dati mappati corrispondenti corredando ciascuna diapositiva con un elemento grafico corrispondente alla Funzione owner.
+  Seguendo la <a href="#mappatura_prototype_implementation">mappatura lativa alla fase di Prototype e Implementation</a>, per ogni Funzione owner, per ciascun progetto listato, inserire una tabella di massimo 2 righe con in dati mappati corrispondenti corredando ciascuna diapositiva con un elemento grafico corrispondente alla Funzione owner.
   
   Ad ogni funzione owner è attribuito un nome &rarr; colore:
  
